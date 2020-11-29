@@ -1,9 +1,8 @@
 # Simulation-Extendible-Hashing
 A Java (Swing) simulation of the Extendable Hashing scheme using graphics.
 
-========================
-BUILD OUTPUT DESCRIPTION
-========================
+
+### BUILD OUTPUT DESCRIPTION
 
 When you build an Java application project that has a main class, the IDE
 automatically copies all of the JAR
